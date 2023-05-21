@@ -11,7 +11,7 @@
 > Hetzner'den 3 dolarlık sunucuya kurdum. Hetzner üye olduğunuzda 20 dolarlık sunucu veriyor: [Link.](https://hetzner.cloud/?ref=gIFAhUnYYjD3) Ödülü net olmayan projeler için kullanabilirsiniz, ücretsiz zaten üye olmanız yetiyor.
 
 ```sh
-# Benim kurduğum:
+# Benim kurduğum (şimdilik yetiyor):
 2 CPU 2 RAM
 
 # Kesin yetecek donanım:
