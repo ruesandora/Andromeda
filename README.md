@@ -159,31 +159,9 @@ andromedad tx staking create-validator \
 -y
 ```
 
+> Repo'yu forklamayı unutmayın, profiliniz dolu olsun.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> Son olarak priv_validatör çıktısını kaydedin: `cat $HOME/.andromedad/config/priv_validator_key.json`
 
 
 
