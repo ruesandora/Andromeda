@@ -6,6 +6,8 @@
 
 > Andromeda'ya katılmamın bir diğer nedeni sevdiğim proje ve yayınlarımda Luna'dan Cosmos'a geçmesini beklediğim bir proje var dediğim proje Andromeda idi. `Boş sunucuma kurdum takılsın orda.`
 
+> Community Kanalları: [Telegram Duyuru](https://t.me/RuesAnnouncement) - [Sohbet](https://t.me/RuesChat) - [Andromeda Discord](https://discord.gg/b5Fte2KV)
+
 <h1 align="center"> Donanım </h1>
 
 > Hetzner'den 3 dolarlık sunucuya kurdum. Hetzner üye olduğunuzda 20 dolarlık sunucu veriyor: [Link.](https://hetzner.cloud/?ref=gIFAhUnYYjD3) Ödülü net olmayan projeler için kullanabilirsiniz, ücretsiz zaten üye olmanız yetiyor.
